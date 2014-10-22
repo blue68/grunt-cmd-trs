@@ -1,0 +1,45 @@
+{
+  "name": "gulp-cmd-trs",
+  "version": "0.0.1",
+  "description": "ported from grunt-cmd-trs.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "cmd-util": "~0.3.5",
+    "event-stream": "~3.1.1",
+    "gulp-util": "~2.2.14",
+    "underscore": "~1.6.0",
+    "css": "~1.6.0",
+    "clean-css": "~2.1.8",
+    "handlebars": "~2.0.0-alpha.2"
+  },
+  "devDependencies": {
+    "gulp": "~3.6.0",
+    "should": "~3.3.0",
+    "gulp-clean": "~0.2.4",
+    "run-sequence": "~0.3.6",
+    "gulp-jshint": "~1.5.3",
+    "gulp-mocha": "~0.4.1"
+  },
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/blue68/grunt-cmd-trs"
+  },
+  "keywords": [
+    "gulpplugin"
+  ],
+  "author": {
+    "name": "blue68",
+    "email": "chaoqiang.tian@gmail.com",
+    "url": "https://github.com/blue68"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/blue68/grunt-cmd-trs/issues"
+  }
+}

@@ -1,4 +1,4 @@
-grunt-cmd-trs
+gulp-cmd-trs
 =============
 
-ported from grunt-cmd-trs.
+ported from gulp-cmd-trs.

@@ -1,6 +1,6 @@
 {
   "name": "gulp-cmd-trs",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "ported from gulp-cmd-trs.",
   "main": "index.js",
   "directories": {
